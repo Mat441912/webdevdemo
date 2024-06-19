@@ -1,0 +1,34 @@
+p {
+    color: blue;
+}
+
+.purple-text:hover {
+    color: plum;
+}
+
+.purple-text{
+    color: purple;
+}
+
+#pink-text {
+    color: pink;
+}
+
+h1.purple-text {
+    font-size: 28px;
+}
+
+ul > li {
+    color: aqua;
+}
+
+ol > li {
+    color: magenta;
+}
+
+table, tr, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+    margin: 50px;
+}
